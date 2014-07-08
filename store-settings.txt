@@ -1,0 +1,123 @@
+Aberdeen
+
+Recommended Store Settings
+
+
+
+Store Settings -> Display
+
+Featured Products
+0
+New Products
+6
+Recent News Items(required)
+0
+Products Per Page(required)
+20
+Product Reviews Per Page(required)
+0
+Cart Quantity Boxes
+Dropdown List
+'Add to Cart' Action
+Take Them To Their Shopping Cart
+Product Breadcrumbs
+Show One Only
+Show Quantity Box for Products
+Yes
+Enable Tag Clouds?
+No
+Enable CAPTCHA?
+Yes
+Enable Search Suggest?
+No
+Show Thumbnails in Cart?
+Yes
+Show Cart Suggestions?
+Yes
+Auto Approve Reviews?
+No
+Enable 'Customers Also Viewed'?
+Yes
+Products Related By Views
+5
+Enable Quick Search?
+No
+Enable Wishlist?
+Yes
+Enable Product Comparisons?
+No
+Enable Account Creation?
+Yes
+Enable Bulk Discount?
+Yes
+Enable Product Tabs?
+No
+
+Control Panel
+Use WYSIWYG Editor?
+Yes
+Show Product Thumbnails?
+Yes
+
+Category Settings
+Category Product List(required)
+Show products from the current category and its children
+Category Display Mode
+Show products in a grid
+Category Menu Style
+Show categories in a fly-out menu
+Menu Display Depth(required)
+2
+Menu Fade Timeout(Optional)
+0.8
+
+Product Settings
+Show Product's Price?
+Yes
+Show Product's SKU?
+Yes
+Show Product's Weight?
+Yes
+Show Product's Brand?
+No
+Show Product's Shipping Cost?
+Yes
+Show Product's Rating?
+No
+Show Add to Cart Link?
+Yes
+
+
+
+Images
+
+
+Storewide Thumbnail(required)
+300 x 550
+Product Page Image(required)
+500 x 659
+Product Page Thumbnail(required)
+60 x 79
+Product Zoom Image(required)
+1280 x 1280
+Show Tiny Thumbnails?
+Yes
+Enable Image Zoom?
+Yes
+Display Product Images
+Display product images in a lightbox zoom window
+Default Product Image(required)
+Show the default product image for my active store design (templates/Blueprint/images/ProductDefault.gif)
+
+
+
+Store Design Settings
+
+Logo
+Show text where my logo will be displayed
+
+Mobile
+Uncheck default mobile theme.
+
+Social Media
+Use theme icons
