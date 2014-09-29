@@ -33,6 +33,30 @@ $( "#mini-search-btn" ).click(function() {
 });
 </script>
 
+<script>
+      
+            $( document ).ready(function() {
+            
+
+  			
+  			if($(".footer-section2 .pages-menu li").length > 3){
+  				$(".bottomnavmenu1div").hide();
+  				$(".footer-section2").css("padding-top","18px");
+   			 }
+   			 else{
+   			 $(".bottomnavmenu2div").hide();
+   			 }
+  			
+  			
+			});
+			
+			
+			$(".footer-section2 select").change(function(){
+			//alert("changed");
+            window.location.href = $(".footer-section2 option:selected").val();
+			});
+</script>
+
 %%GLOBAL_DesignModeHTML%%
 %%GLOBAL_QueryList%%
 %%GLOBAL_DesignModeScriptTag%%
