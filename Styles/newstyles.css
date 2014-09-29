@@ -790,11 +790,11 @@ display:none;
 
 .slide-heading {
     font-size: 35px;
-    text-shadow: 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000;
+    text-shadow: 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000;
 }
 
 .slide-text {
-    text-shadow: 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000;
+    text-shadow: 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000;
 }
 
 .newsletter-subscription .btn.btn {
@@ -946,7 +946,7 @@ input {
 }
 
 #ProductVideos, #ProductWarranty, #ProductOtherDetails, #ProductReviews, #SimilarProductsByCustomerViews {
-	float: left;
+	float: right;
 	width: 48%;
 	padding: 10px;
 }
@@ -1030,7 +1030,7 @@ html {
 .p-price {
     color: #ffffff;
     font-size: 20px;
-    text-shadow: 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000;
+    text-shadow: 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000;
 }
 
 #socnet li {
@@ -1086,7 +1086,7 @@ html {
 
 .bottom-menu-item .ProductDetails strong a {
     color: #ffffff;
-    text-shadow: 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000;
+    text-shadow: 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000;
     font-family: 'Francois One';
     font-size: 28px;
     line-height: 1.5;
@@ -1095,7 +1095,7 @@ html {
 
 #SimilarProductsByCustomerViews .ProductDetails strong a {
     color: #ffffff;
-    text-shadow: 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000;
+    text-shadow: 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000;
     font-family: 'Francois One';
     font-size: 18px;
     line-height: 1.5;
@@ -1105,7 +1105,7 @@ html {
 .bottom-menu-item .ProductDetails p em, #SimilarProductsByCustomerViews .ProductDetails p em {
     color: #ffffff;
     font-size: 20px;
-    text-shadow: 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000;
+    text-shadow: 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000;
 }
 
 #new-arrivals-default {
