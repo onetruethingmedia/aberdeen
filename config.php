@@ -23,7 +23,7 @@ $GLOBALS['TPL_CFG']['Version'] = '1.0';
 
 $GLOBALS['TPL_CFG']['Premium'] = array(
     // price in cents
-    'price' => 15000,
+    'price' => 14000,
     'currency' => 'usd',
     'partner' => '',
 );
@@ -46,7 +46,7 @@ $GLOBALS['TPL_CFG']['FeaturesTextArray'] = array(
 
 // List of supported devices
 // e.g. "This theme has been tested and approved for use on Chrome, Safari, Firefox, Opera, IE8+, Apple iOS, Android and Windows Mobile Devices."
-$GLOBALS['TPL_CFG']['DevicesText'] = "This theme has been tested and approved for use on Chrome, Safari, Firefox, Opera, IE8+, Apple iOS, Android and Windows Mobile Devices.";
+$GLOBALS['TPL_CFG']['DevicesText'] = "This theme has been tested and approved for use on Chrome, Safari, Firefox, Opera, IE10+, Apple iOS, Android and Windows Mobile Devices.";
 
 // Theme details/description; supports HTML.
 $GLOBALS['TPL_CFG']['DescriptionHtml'] = "<p>Aberdeen features a responsive, sleek, modern design that emphasizes clean and uncluttered presentation.</p>";
