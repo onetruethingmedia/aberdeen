@@ -29,6 +29,9 @@
             <script type="text/javascript">
 
             $(document).ready(function() {
+            	if($("div:visible").hasClass("OutOfStockMessage") == true){
+                $(".productAttributeList").hide();
+                }
                 if($('.videoRow').size() > 0) {
                     $('.videoRow').bind('click', function () {
                         var videoId = $(this).attr('id').replace('video_', '');
