@@ -88,6 +88,10 @@ and (max-width : 870px) {
 @media only screen 
 and (max-width : 768px) {
 
+.ProductImage {
+    display: inline !important;
+}
+
 #ProductVideos, #ProductWarranty, #ProductOtherDetails, #ProductReviews, #SimilarProductsByCustomerViews {
 	width: 100% !important;
 }
