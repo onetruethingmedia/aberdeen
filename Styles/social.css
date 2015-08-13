@@ -126,3 +126,23 @@
 .icon-social.icon-social-theme {
     background-image: url('../images/sprite-social.png');
 }
+
+.icon-instagram {
+
+   background-position: 0 -360px !important;
+
+}
+
+.is-disabled.icon-instagram {
+
+   background-position: -65px -360px !important;
+
+}
+
+.icon-instagram:hover,
+
+.icon-instagram:focus {
+
+   background-position: -130px -360px !important;
+
+}
